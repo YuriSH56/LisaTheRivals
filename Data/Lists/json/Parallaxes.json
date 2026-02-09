@@ -1,0 +1,29 @@
+{
+	"Parallaxes": [
+		{
+			"Base": "L1",
+			"Layers": [
+				{
+					"Name": "Layer1",
+					"Scroll": [0.8, 1.0],
+					"Offset": [45, 0]
+				},
+				{
+					"Name": "Layer2",
+					"Scroll": [1.0, 1.0],
+					"Offset": [0, 0]
+				},
+				{
+					"Name": "Layer3",
+					"Scroll": [1.1, 1.0],
+					"Offset": [45, 0]
+				},
+				{
+					"Name": "Layer4",
+					"Scroll": [1.2, 1.0],
+					"Offset": [0, 0]
+				},
+			]
+		}
+	]
+}

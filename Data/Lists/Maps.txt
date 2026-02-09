@@ -1,0 +1,15 @@
+# MAPS
+# Format: MapID,SizeX,SizeY,Weight,Type,Entrances
+# Types: 0 - Normal, 1 - Cave, 2 - Secret
+# Entrance Format: PosX,PosY,IsLeft?
+# If map has both left and right entrances it is considered normal
+# If it has only one entrance it is considered a corner map
+# Maps with 0 entrances can only be accessed by entrances on the map (not left/right edges). Those are usually caves or secret rooms
+# Area tag is used to specify area maps belong to
+
+Area = 1
+1,  17, 13, 2000, 0,[(1,10,true);(15,10,false)]
+2,  17, 13, 2000, 0,[(1,10,true);(15,10,false)]
+3,  17, 13, 2000, 0,[(1,10,true);(15,10,false)]
+4,  17, 13, 2000, 0,[(1,10,true);(15,10,false)]
+5,  17, 13, 2000, 0,[(1,10,true);(15,10,false)]

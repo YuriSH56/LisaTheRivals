@@ -1,0 +1,9 @@
+# STORAGE MAPS
+# Those are only map IDs and nothing else
+
+# Npcs
+6
+# Enemies
+7
+# Actors
+12

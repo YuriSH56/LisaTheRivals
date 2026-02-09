@@ -1,0 +1,16 @@
+texture palette;
+float paletteSize;
+sampler2D paletteSampler = sampler_state
+{
+    Texture = palette;
+    AddressU = CLAMP;
+};
+PS_OUTPUT PS_PaletteSwap(float4 color : COLOR0, float2 tex : TEXCOORD0) : COLOR
+{
+    float4 res = tex2D(spriteSampler, tex);
+    
+    float pix_color = round(res.r * 255.0);
+    res = tex2D(paletteSampler, float2(pix_color / paletteSize, 0.0));
+    
+    return GetOutput(res);
+}

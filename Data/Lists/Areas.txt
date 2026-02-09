@@ -1,0 +1,7 @@
+# AREAS
+# Format: AreaID,MinMap,MaxMap,StartAndEndEntrances
+# Leave empty brackets for name if you want to keep it empty
+# Entrance format: MapID,PosX,PosY,IsLeft?
+# Left entrance means area's ending map, right entrance - starting map
+
+1, 10,15,Test,[(15,26,14,false);(15,1,16,true)]

@@ -1,0 +1,13 @@
+{
+	"Actors": [
+		"Area_1": [
+			{
+				"MapID": 12,
+				"EventID": 1,
+				"ActorID": 2,
+				"Weight": 2000,
+				"CanMirror": true
+			}
+		]
+	]
+}

@@ -1,0 +1,18 @@
+{
+	"Areas": [
+		{
+			"AreaID": 1,
+			"Palettes": [1],
+			"MapSize": [7,12],
+			"Name": "Test1",
+			"Start": {
+				"MapID": 15,
+				"Pos": [26,14]
+			},
+			"End": {
+				"MapID": 15,
+				"Pos": [1,16]
+			}
+		}
+	]
+}

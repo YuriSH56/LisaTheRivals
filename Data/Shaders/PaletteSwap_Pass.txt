@@ -1,0 +1,13 @@
+pass PaletteSwap
+{
+    AlphaBlendEnable = true;
+    SeparateAlphaBlendEnable = true;
+ 
+    BlendOp = ADD;
+    SrcBlend = ONE;
+    DestBlend = INVSRCALPHA;
+    SrcBlendAlpha = ONE;
+    DestBlendAlpha = INVSRCALPHA;
+ 
+    PixelShader = compile ps_2_0 PS_PaletteSwap();
+}

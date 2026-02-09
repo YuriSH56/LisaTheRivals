@@ -1,0 +1,108 @@
+{
+	"Npcs": [
+		"Area_1": [
+			{
+				"MapID": 6,
+				"EventID": 1,
+				"Weight": 2000,
+				"CanMirror": true
+			},
+			{
+				"MapID": 6,
+				"EventID": 2,
+				"Weight": 2000,
+				"CanMirror": true
+			},
+			{
+				"MapID": 6,
+				"EventID": 3,
+				"Weight": 2000,
+				"CanMirror": true
+			},
+			{
+				"MapID": 6,
+				"EventID": 4,
+				"Weight": 2000,
+				"CanMirror": true
+			},
+			{
+				"MapID": 6,
+				"EventID": 5,
+				"Weight": 2000,
+				"CanMirror": true
+			},
+			{
+				"MapID": 6,
+				"EventID": 6,
+				"Weight": 2000,
+				"CanMirror": true
+			},
+			{
+				"MapID": 6,
+				"EventID": 7,
+				"Weight": 2000,
+				"CanMirror": true
+			},
+			{
+				"MapID": 6,
+				"EventID": 8,
+				"Weight": 2000,
+				"CanMirror": true
+			},
+			{
+				"MapID": 6,
+				"EventID": 9,
+				"Weight": 2000,
+				"CanMirror": true
+			},
+			{
+				"MapID": 6,
+				"EventID": 10,
+				"Weight": 2000,
+				"CanMirror": true
+			},
+			{
+				"MapID": 6,
+				"EventID": 11,
+				"Weight": 2000,
+				"CanMirror": true
+			},
+			{
+				"MapID": 6,
+				"EventID": 12,
+				"Weight": 2000,
+				"CanMirror": true
+			},
+			{
+				"MapID": 6,
+				"EventID": 13,
+				"Weight": 2000,
+				"CanMirror": true
+			},
+			{
+				"MapID": 6,
+				"EventID": 14,
+				"Weight": 2000,
+				"CanMirror": true
+			},
+			{
+				"MapID": 6,
+				"EventID": 15,
+				"Weight": 2000,
+				"CanMirror": true
+			},
+			{
+				"MapID": 6,
+				"EventID": 16,
+				"Weight": 2000,
+				"CanMirror": true
+			},
+			{
+				"MapID": 6,
+				"EventID": 17,
+				"Weight": 2000,
+				"CanMirror": true
+			}
+		]
+	]
+}

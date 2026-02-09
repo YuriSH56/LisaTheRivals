@@ -1,0 +1,81 @@
+{
+	"Maps": [
+		"Area_1": [
+			{
+				"MapID": 1,
+				"SizeX": 17,
+				"SizeY": 13,
+				"Weight": 2000,
+				"Type": "NORMAL",
+				"EntranceLeft": {
+					"MapID": -1,
+					"Pos": [1,10]
+				},
+				"EntranceRight": {
+					"MapID": -1,
+					"Pos": [15,10]
+				}
+			},
+			{
+				"MapID": 2,
+				"SizeX": 17,
+				"SizeY": 13,
+				"Weight": 2000,
+				"Type": "NORMAL",
+				"EntranceLeft": {
+					"MapID": -1,
+					"Pos": [1,10]
+				},
+				"EntranceRight": {
+					"MapID": -1,
+					"Pos": [15,10]
+				}
+			},
+			{
+				"MapID": 3,
+				"SizeX": 17,
+				"SizeY": 13,
+				"Weight": 2000,
+				"Type": "NORMAL",
+				"EntranceLeft": {
+					"MapID": -1,
+					"Pos": [1,10]
+				},
+				"EntranceRight": {
+					"MapID": -1,
+					"Pos": [15,10]
+				}
+			},
+			{
+				"MapID": 4,
+				"SizeX": 17,
+				"SizeY": 13,
+				"Weight": 2000,
+				"Type": "NORMAL",
+				"EntranceLeft": {
+					"MapID": -1,
+					"Pos": [1,10]
+				},
+				"EntranceRight": {
+					"MapID": -1,
+					"Pos": [15,10]
+				}
+			},
+			{
+				"MapID": 5,
+				"SizeX": 17,
+				"SizeY": 13,
+				"Weight": 2000,
+				"Type": "NORMAL",
+				"EntranceLeft": {
+					"MapID": -1,
+					"Pos": [1,10]
+				},
+				"EntranceRight": {
+					"MapID": -1,
+					"Pos": [15,10]
+				}
+			}
+		]
+	]
+}

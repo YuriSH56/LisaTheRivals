@@ -1,0 +1,90 @@
+{
+	"ItemPools": [
+		"Area_1": [
+			{
+				"Type": "NORMAL",
+				"ItemID": 1,
+				"Weight": 2000,
+				"Count": [1,2]
+			},
+			{
+				"Type": "NORMAL",
+				"ItemID": 4,
+				"Weight": 2000,
+				"Count": [1,2]
+			},
+			{
+				"Type": "NORMAL",
+				"ItemID": 9,
+				"Weight": 600,
+				"Count": [1,1]
+			},
+			{
+				"Type": "NORMAL",
+				"ItemID": 11,
+				"Weight": 1200,
+				"Count": [1,2]
+			},
+			{
+				"Type": "NORMAL",
+				"ItemID": 12,
+				"Weight": 800,
+				"Count": [1,2]
+			},
+			{
+				"Type": "NORMAL",
+				"ItemID": 13,
+				"Weight": 500,
+				"Count": [1,1]
+			},
+			{
+				"Type": "NORMAL",
+				"ItemID": 14,
+				"Weight": 800,
+				"Count": [1,1]
+			},
+			{
+				"Type": "NORMAL",
+				"ItemID": 15,
+				"Weight": 500,
+				"Count": [1,1]
+			},
+			{
+				"Type": "NORMAL",
+				"ItemID": 19,
+				"Weight": 500,
+				"Count": [1,1]
+			},
+			{
+				"Type": "NORMAL",
+				"ItemID": 21,
+				"Weight": 100,
+				"Count": [1,1]
+			},
+			{
+				"Type": "NORMAL",
+				"ItemID": 24,
+				"Weight": 500,
+				"Count": [1,1]
+			},
+			{
+				"Type": "NORMAL",
+				"ItemID": 25,
+				"Weight": 1500,
+				"Count": [1,1]
+			},
+			{
+				"Type": "ARMOR",
+				"ItemID": 4,
+				"Weight": 2000,
+				"Count": [1,1]
+			},
+			{
+				"Type": "WEAPON",
+				"ItemID": 2,
+				"Weight": 2000,
+				"Count": [1,1]
+			}
+		]
+	]
+}

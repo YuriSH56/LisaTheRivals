@@ -1,0 +1,22 @@
+# NPCS
+# Format: MapID,EventID,Weight,CanMirror?
+# Area tag is used to specify area enemies/npcs belong to
+
+Area = 1
+6,  1,  2000,true
+6,  2,  2000,true
+6,  3,  2000,true
+6,  4,  2000,true
+6,  5,  2000,true
+6,  6,  2000,true
+6,  7,  2000,true
+6,  8,  2000,true
+6,  9,  2000,true
+6,  10, 2000,true
+6,  11, 2000,true
+6,  12, 2000,true
+6,  13, 2000,true
+6,  14, 2000,true
+6,  15, 2000,true
+6,  16, 2000,true
+6,  17, 2000,true

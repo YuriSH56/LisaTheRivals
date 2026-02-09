@@ -1,0 +1,15 @@
+# PARALLAXES
+# File for defining parallaxes and its layers.
+# Data goes in order:
+# FileName,ScrollX,ScrollY,OffsetX,OffsetY
+# FileName without extension, everything else is optional and defaults to:
+# 1.0 for ScrollX and ScrollY, 0.0 for OffsetX and OffsetY
+
+# Parallax tag is the MAIN LAYER, all layers past it will be attributed to this parallax.
+# It should correspond to an existing parallax image.
+
+Parallax = L1
+L1_Layer1, 0.8, 0.8, 45
+L1_Layer2, 1.0
+L1_Layer3, 1.1, 1.1, 45
+L1_Layer4, 1.2

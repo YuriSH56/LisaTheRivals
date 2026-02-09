@@ -1,0 +1,56 @@
+{
+	"Enemies": [
+		"Area_1": [
+			{
+				"MapID": 7,
+				"EventID": 1,
+				"EnemyID": 2,
+				"Type": "ENEMY",
+				"Name": "John Doe",
+				"RandomName": true,
+				"Weight": 2000,
+				"CanMirror": true
+			},
+			{
+				"MapID": 7,
+				"EventID": 2,
+				"EnemyID": 3,
+				"Type": "ENEMY",
+				"Name": "John Doe",
+				"RandomName": true,
+				"Weight": 2000,
+				"CanMirror": true
+			},
+			{
+				"MapID": 7,
+				"EventID": 3,
+				"EnemyID": 4,
+				"Type": "ENEMY",
+				"Name": "John Doe",
+				"RandomName": true,
+				"Weight": 2000,
+				"CanMirror": true
+			},
+			{
+				"MapID": 7,
+				"EventID": 4,
+				"EnemyID": 5,
+				"Type": "ENEMY",
+				"Name": "John Doe",
+				"RandomName": true,
+				"Weight": 2000,
+				"CanMirror": true
+			},
+			{
+				"MapID": 7,
+				"EventID": 5,
+				"EnemyID": 6,
+				"Type": "ENEMY",
+				"Name": "John Doe",
+				"RandomName": true,
+				"Weight": 2000,
+				"CanMirror": true
+			}
+		]
+	]
+}

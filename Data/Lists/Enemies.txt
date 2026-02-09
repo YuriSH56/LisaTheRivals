@@ -1,0 +1,12 @@
+# ENEMIES
+# Format: MapID,EventID,EnemyID,Type,Name,Weight,CanMirror?
+# Leave empty brackets if name should be randomized
+# Types: 0 - Enemy, 1 - Boss
+# Area tag is used to specify area enemies belong to
+
+Area = 1
+7,  1,  2,  0,"",2000,true
+7,  2,  3,  0,"",2000,true
+7,  3,  4,  0,"",2000,true
+7,  4,  5,  0,"",2000,true
+7,  5,  6,  0,"",2000,true

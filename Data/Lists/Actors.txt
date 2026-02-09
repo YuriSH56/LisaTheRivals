@@ -1,0 +1,6 @@
+# ACTORS (PARTY MEMBERS)
+# Format: MapID,EventID,ActorID,Weight,CanMirror?
+# Area tag is used to specify area party members belong to
+
+Area = 1
+12, 1,  2,  2000,true

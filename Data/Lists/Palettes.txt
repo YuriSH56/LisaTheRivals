@@ -1,0 +1,5 @@
+# PALETTES
+# Simple list of palettes, with each having a unique ID.
+# Format: ID, texture_name
+
+0,   palette_test2
