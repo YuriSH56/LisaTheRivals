@@ -3,8 +3,7 @@
 		"Area_1": [
 			{
 				"MapID": 1,
-				"SizeX": 17,
-				"SizeY": 13,
+				"MapSize": [17,13],
 				"Weight": 2000,
 				"Type": "NORMAL",
 				"EntranceLeft": {
@@ -18,8 +17,7 @@
 			},
 			{
 				"MapID": 2,
-				"SizeX": 17,
-				"SizeY": 13,
+				"MapSize": [17,13],
 				"Weight": 2000,
 				"Type": "NORMAL",
 				"EntranceLeft": {
@@ -33,8 +31,7 @@
 			},
 			{
 				"MapID": 3,
-				"SizeX": 17,
-				"SizeY": 13,
+				"MapSize": [17,13],
 				"Weight": 2000,
 				"Type": "NORMAL",
 				"EntranceLeft": {
@@ -48,8 +45,7 @@
 			},
 			{
 				"MapID": 4,
-				"SizeX": 17,
-				"SizeY": 13,
+				"MapSize": [17,13],
 				"Weight": 2000,
 				"Type": "NORMAL",
 				"EntranceLeft": {
@@ -63,8 +59,7 @@
 			},
 			{
 				"MapID": 5,
-				"SizeX": 17,
-				"SizeY": 13,
+				"MapSize": [17,13],
 				"Weight": 2000,
 				"Type": "NORMAL",
 				"EntranceLeft": {
