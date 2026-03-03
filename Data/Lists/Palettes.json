@@ -2,7 +2,8 @@
 	"Palettes": [
 		{
 			"PaletteID": 1,
-			"Texture": "palette_test2"
+			"Texture": "palette_test2",
+			"Size": 9
 		}
 	]
 }

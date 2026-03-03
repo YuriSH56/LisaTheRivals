@@ -6,6 +6,18 @@
 			"AreaSize": [7,12],
 			"Name": "Test1",
 			"BattleThemes": ["CGP - Lady Ladybug"],
+			"BossThemes": ["CGP - Lady Ladybug"],
+			"Chances": {
+				"ArmorChance": 0.1,
+				"WeaponChance": 0.1,
+				"LootSpawnChance": 0.8,
+				"NpcSpawnChance": 0.9,
+				"ActorSpawnChance": 0.5,
+				"EnemySpawnChance": 0.8,
+				"EnemySwapNpcChance": 0.1,
+				"UniqueEnemyChance": 0.01
+				
+			},
 			"Start": {
 				"MapID": 15,
 				"Pos": [26,14]
