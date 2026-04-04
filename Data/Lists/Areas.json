@@ -18,6 +18,10 @@
 				"UniqueEnemyChance": 0.01
 				
 			},
+			"StartPosition": {
+				"MapID": 15,
+				"Pos": [18,14]
+			},
 			"Start": {
 				"MapID": 15,
 				"Pos": [26,14]
